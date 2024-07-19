@@ -8,7 +8,9 @@
   Extended version of create-t3-app created by Devviantex: create-dtx-next-app
 </p>
 
-![image](https://github.com/user-attachments/assets/5ae5dce7-9d10-45d7-a0b4-10e6cfe8f37e)
+<div align="center">
+<img width="648" alt="Screenshot 2567-06-09 at 20 01 45" src="https://github.com/user-attachments/assets/5ae5dce7-9d10-45d7-a0b4-10e6cfe8f37e">
+</div>
 
 <h2 id="about">The Devviantex Stack and its processor (T3 Stack)</h2>
 
