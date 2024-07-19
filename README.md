@@ -1,8 +1,8 @@
+
 <h1 align="center">
+  DEVVIANTEX NEXT APP </br>
   create-dtx-next-app
 </h1>
-
-
 
 <p align="center">
   Extended version of create-t3-app created by Devviantex: create-dtx-next-app
@@ -12,7 +12,7 @@
 <img width="648" alt="Screenshot 2567-06-09 at 20 01 45" src="https://github.com/devvianto605/create-dtx-next-app/assets/101519510/d796c8d4-7136-4b92-954e-96b4c4a05f6a">
 </div>
 
-<h2 id="about">The T3 Stack</h2>
+<h2 id="about">The Devviantex Stack and its processor (T3 Stack)</h2>
 
 The _"T3 Stack"_ is a web development stack made by [Theo](https://twitter.com/t3dotgg) focused on **simplicity**, **modularity**, and **full-stack typesafety**. It consists of:
 
@@ -32,7 +32,7 @@ After countless projects and many years on this tech, we have lots of opinions a
 
 This is **NOT** an all-inclusive template. We **expect** you to bring your own libraries that solve the needs of **YOUR** application. While we don’t want to prescribe solutions to more specific problems like state management and deployment, we [do have some recommendations listed here](https://create.t3.gg/en/other-recs).
 
-Thus the t3 excellence, I ,d605, decide to extend it with my often used stack as listed below.
+Thus the t3 excellence, I - Devviantex decide to extend it with my often used stack as listed below.
 
 <h2 id="about">The Deviantex Stack - What's added?</h2>
 
@@ -57,4 +57,5 @@ npm create dtx-next-app@latest
 ```
 
 For more advanced usage, check out the [CLI docs](https://create.t3.gg/en/installation).
-Specifically for Devviantex version of CLI, the documentation is coming soon.
+
+Specifically for Devviantex version of CLI, the documentation is <u>coming soon</u>.
